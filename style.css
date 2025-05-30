@@ -8,7 +8,7 @@
 
 
 body {
-    background-color: #4b2f70;
+    background-color: #b6a2d1;
     color: rgb(104, 41, 129);
     line-height: 1.6;
 }
@@ -21,7 +21,7 @@ a {
 /*Cabeçalho */
 header {
     background: linear-gradient(135deg, rgb(156, 63, 243), rgb(10, 29, 29) );
-    color: rgb(182, 86, 247);
+    color: rgb(113, 84, 133);
     text-align: center;
     padding: 2rem 0;
     position: relative;
@@ -66,7 +66,7 @@ nav ul li {
 }
 
 nav ul a {
-    color: #4b2f70;
+    color: #6d06f3;
     font-weight: 500;
     transition: color 0.3s;
 }
